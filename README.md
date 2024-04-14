@@ -1,4 +1,7 @@
 # Correlation and regression for data analysis
+
+## AKSHAYA S K (212223040011)
+
 ## Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
